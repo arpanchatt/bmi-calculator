@@ -2,7 +2,7 @@
 ## Description
 This is a simple body mass index calculator app consisting of various flutter widgets and UI. This is a dual screen app with some simple functionalities.
 ## Working
-*The user needs:-*
+*The user needs :*
 * to select the gender (male/female)
 * to choose the height
 * to select age and weight
